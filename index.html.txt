@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>The Hitch Rail</title>
+</head>
+<body>
+  <h1>The Hitch Rail</h1>
+  <h2>Mobile Coffee Van</h2>
+
+  <p>Serving quality coffee on the road.</p>
+
+  <p>
+    📍 Swan Reach<br>
+    ☕ Roosevelt coffee by Inglewood<br>
+    🚐 Mobile coffee van
+  </p>
+
+  <p>
+    Follow us on Facebook for locations & times
+  </p>
+</body>
+</html>
